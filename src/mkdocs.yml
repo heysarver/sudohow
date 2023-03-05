@@ -1,0 +1,4 @@
+site_name: $ sudo how
+theme:
+  name: material
+  custom_dir: overrides/
