@@ -4,6 +4,7 @@ theme:
   name: material
   custom_dir: overrides/
   palette:
+    primary: default
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
