@@ -1,4 +1,15 @@
 site_name: $ sudo how
+site_url: https://sudo.how/
 theme:
   name: material
   custom_dir: overrides/
+
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - User Guide: user-guide/
+    - Developer Guide: dev-guide/
+    - About:
+        - Release Notes: about/release-notes.md
+        - Contributing: about/contributing.md
+        - License: about/license.md
