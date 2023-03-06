@@ -4,7 +4,6 @@ theme:
   name: material
   custom_dir: overrides/
   palette:
-    primary: black
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -12,6 +11,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      primary: black
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
